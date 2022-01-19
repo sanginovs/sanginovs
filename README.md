@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sher.
+- 💻 I do Android stuff ...
 
 
 <!---
