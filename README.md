@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sher.
-- 💻 I do Android stuff ... I do Full-stack with React/Django ... I sometimes touch Xcode if needed.  
+- 💻 I specialize in Android ... I also do Full-stack with React/Django ... I sometimes touch Xcode if needed.  
 
 
 <!---
