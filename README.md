@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sher.
-- 💻 I specialize in Android ... I also do Full-stack with React/Django ... I sometimes touch Xcode if needed ... and play with Burp Suite for CTFs.  
+- 💻 I specialize in Android ... I also do Full-stack with React/TypeScript/Django/GQL ... I sometimes touch Xcode if needed ... and play with Burp Suite for CTFs.  
 
 
 <!---
