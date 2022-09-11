@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sher
    - 🛡️ I specialize in Android App Dev (+learning about Android OS level security and exploits in my free time -> [🙌🙌🙌 Android Hacker's Handbook](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X) 
    - 🔥 I also do Full-stack with React/TypeScript/Django/GQL for side-projects
-   - 📱 sometimes touch Xcode if needed 
-   - 🕵️‍♂️ and play with Burp Suite for CTFs  
+   - 📱 sometimes touch Xcode when needed 
+   - 🚀 also tryna live a productive lifestyle ->  [Atomic Habits 🙌🙌🙌🙌](https://www.amazon.com/Atomic-Habits-Proven-Build-Break)
    - 📫 you can reach me at shersanginov6505@gmail.com
 
 
