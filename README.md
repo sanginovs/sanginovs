@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sher
-   - 🧠 In focus mode
+🧠 In focus mode
 
 
 <!---
